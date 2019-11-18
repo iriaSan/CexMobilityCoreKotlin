@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- General values -->
+    <string name="enter">Entrar</string>
+    <string name="error">Error</string>
+
+    <string name="info">Info.</string>
+    <string name="help">Ayuda</string>
+    <string name="success">Correcto</string>
+    <string name="warning">Cuidado</string>
+
+    <string name="loading">Cargando datos…</string>
+</resources>
