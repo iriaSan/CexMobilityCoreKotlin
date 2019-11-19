@@ -7,7 +7,8 @@
     <color name="colorAccent">#C81016</color>
 
     <!-- Basic Colors -->
-    <color name="white">#ffffff</color>
+    <color name="red_error">#F44336</color>
+    <color name="colorWhite">#FFFFFF</color>
     <color name="black">#000000</color>
     <color name="grey_dark_more">#333E47</color>
     <color name="grey_loading">#757575</color>
